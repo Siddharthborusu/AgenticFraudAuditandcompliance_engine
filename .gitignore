@@ -1,0 +1,27 @@
+# Environment variables (API keys)
+.env
+
+# macOS system files
+.DS_Store
+
+# Generated outputs
+aface_audit_report.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Logs
+*.log
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# IDE settings
+.vscode/

@@ -1,0 +1,11 @@
+PMLA Section 12:
+Financial institutions must maintain records of transactions and report suspicious activity to authorities.
+
+Structuring:
+Breaking large transactions into smaller amounts to evade reporting thresholds is considered suspicious behaviour.
+
+RBI KYC Guidelines:
+Banks must monitor transactions for unusual patterns including rapid transfers and repeated near-threshold deposits.
+
+FIU-IND Suspicious Transaction Reporting:
+Banks must file STR reports for transactions suspected to involve money laundering or financial crime.
