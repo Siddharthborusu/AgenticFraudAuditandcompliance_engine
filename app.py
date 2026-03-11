@@ -8,11 +8,16 @@ from agents.regulator import run_regulator
 from agents.explainer import run_explainer
 from agents.report import generate_report
 
+st.title("Agentic Fraud-Audit & Compliance Engine (AFACE)")
 
-st.title("Agentic Fraud-Audit & Compliance Engine (AFAC) built and hosted by siddharth borusu")
+st.markdown("""
+AI-powered system for detecting suspicious financial transactions, 
+investigating them using LLM reasoning, retrieving regulatory context,
+and generating automated compliance audit reports.
 
-st.write("Upload a transaction dataset to analyze suspicious activity.")
-
+🔗 **GitHub Repo:**  
+https://github.com/Siddharthborusu/AgenticFraudAuditandcompliance_engine
+""")
 
 uploaded_file = st.file_uploader("Upload Transactions CSV", type=["csv"])
 
