@@ -1,0 +1,8 @@
+streamlit
+pandas
+groq
+sentence-transformers
+faiss-cpu
+reportlab
+python-dotenv
+faker
