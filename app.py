@@ -1,4 +1,5 @@
 import streamlit as st
+import groq as Groq
 import pandas as pd
 
 from agents.detector import run_detector
@@ -8,7 +9,7 @@ from agents.explainer import run_explainer
 from agents.report import generate_report
 
 
-st.title("AFACE – Agentic Fraud-Audit & Compliance Engine built and hosted by siddharth borusu")
+st.title("Agentic Fraud-Audit & Compliance Engine (AFAC) built and hosted by siddharth borusu")
 
 st.write("Upload a transaction dataset to analyze suspicious activity.")
 
