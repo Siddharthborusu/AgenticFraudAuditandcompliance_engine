@@ -8,7 +8,7 @@ from agents.regulator import run_regulator
 from agents.explainer import run_explainer
 from agents.report import generate_report
 
-st.title("Agentic Fraud-Audit & Compliance Engine (AFACE) built and hosted by siddharth borusu")
+st.title("Agentic Fraud-Audit & Compliance Engine (AFACE) built and hosted by :blue[siddharth borusu]")
 
 st.markdown("""
 AI-powered system for detecting suspicious financial transactions, 
